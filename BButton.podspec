@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
 	s.screenshots		= ['https://raw.githubusercontent.com/jessesquires/BButton/master/Screenshots/screenshot0.png']
 	s.authors			= { 'Jesse Squires' => 'jesse.squires.developer@gmail.com', 'Mathieu Bolard' => 'mattlawer08@gmail.com' }
 	s.social_media_url	= 'https://twitter.com/jesse_squires'
-	s.source			= { :git => 'https://github.com/jessesquires/BButton.git', :tag => s.version.to_s }
+	s.source			= { :git => 'https://github.com/telvin/BButton.git', :tag => s.version.to_s }
 	# s.platform			= :ios, '6.0'
 	s.ios.minimum_deployment_target = '6.0'
 	s.tvos.minimum_deployment_target = '9.1'
